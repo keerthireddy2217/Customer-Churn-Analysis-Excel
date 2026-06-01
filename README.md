@@ -2,34 +2,39 @@
 # Customer Churn Analysis Using Excel
 
 ## Project Overview
+
 This project analyzes customer churn data using Microsoft Excel to identify factors affecting customer retention.
 
+## Objectives
+
+- Understand customer churn behavior
+- Identify churn patterns
+- Analyze contract types and tenure
+- Generate business insights
+
 ## Tools Used
+
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts
-- Data Cleaning
-- Data Visualization
-
-## Dashboard Screenshots
-
-### Contract vs Churn
-![Contract vs Churn](contract_vs_churn.png)
-
-### Charges vs Churn
-![Charges vs Churn](charges_vs_churn.png)
+- Charts
+- Dashboards
+- Conditional Formatting
 
 ## Key Insights
 
-- Month-to-month customers have significantly higher churn rates.
-- Customers with two-year contracts show stronger retention.
-- Higher monthly charges are associated with increased churn.
-- Contract duration plays a major role in customer retention.
+- Month-to-month customers show higher churn.
+- Customers with shorter tenure churn more frequently.
+- Contract type significantly affects retention.
 
 ## Skills Demonstrated
 
 - Data Analysis
-- Business Analytics
+- Data Cleaning
+- Dashboard Design
+- Business Intelligence
 - Data Visualization
-- Excel Dashboard Development
-- Customer Retention Analysis
+
+## Files
+
+- Customer_Churn_Analysis.xlsx
+- Dashboard screenshots
